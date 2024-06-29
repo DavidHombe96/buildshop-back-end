@@ -1,0 +1,25 @@
+{
+  "name": "buildshop",
+  "version": "1.0.0",
+  "description": "build shop back end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidHombe96/buildshop-back-end.git"
+  },
+  "keywords": [
+    "shop"
+  ],
+  "author": "David Hombe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidHombe96/buildshop-back-end/issues"
+  },
+  "homepage": "https://github.com/DavidHombe96/buildshop-back-end#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
